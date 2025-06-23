@@ -1,6 +1,7 @@
 #Rule 4 - Consider different variable for different inputs 
 
 num_list = [1, 2, 3, 4, 5, 6, 7]
+char_list = ['a', 'b', 'c', 'd', 'e']
 
 def rondomFunction(num_list, char_list):
 
